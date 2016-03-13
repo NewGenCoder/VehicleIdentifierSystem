@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+	<vehicle>
+		<id>vehicle101</id>
+		<frame>
+			<material>plastic</material>
+		</frame>
+		<wheels>
+			<wheel>
+				<position>left rear</position>
+				<material>plastic</material>
+			</wheel>
+			<wheel>
+				<position>right rear</position>
+				<material>plastic</material>
+			</wheel>
+			<wheel>
+				<position>front</position>
+				<material>plastic</material>
+			</wheel>
+		</wheels>
+		<powertrain>Human</powertrain>
+	</vehicle>
+	<vehicle>
+		<id>vehicle102</id>
+		<frame>
+			<material>metal</material>
+		</frame>
+		<wheels>
+			<wheel>
+				<position>rear</position>
+				<material>metal</material>
+			</wheel>
+			<wheel>
+				<position>front</position>
+				<material>metal</material>
+			</wheel>
+		</wheels>
+		<powertrain>Human</powertrain>
+	</vehicle>
+	<vehicle>
+		<id>vehicle103</id>
+		<frame>
+			<material>metal</material>
+		</frame>
+		<wheels>
+			<wheel>
+				<position>rear</position>
+				<material>metal</material>
+			</wheel>
+			<wheel>
+				<position>front</position>
+				<material>metal</material>
+			</wheel>
+		</wheels>
+		<powertrain>
+			InternalCombustion
+		</powertrain>
+	</vehicle>
+	<vehicle>
+		<id>vehicle104</id>
+		<frame>
+			<material>plastic</material>
+		</frame>
+		<wheels/>
+		<powertrain>
+			<Bernoulli />
+		</powertrain>
+	</vehicle>
+	<vehicle>
+		<id>vehicle105</id>
+		<frame>
+			<material/>
+		</frame>
+		<wheels>
+			<wheel>
+				<position>front right</position>
+				<material>metal</material>
+			</wheel>
+			<wheel>
+				<position>front left</position>
+				<material>metal</material>
+			</wheel>
+			<wheel>
+				<position>rear right</position>
+				<material>metal</material>
+			</wheel>
+			<wheel>
+				<position>rear left</position>
+				<material>metal</material>
+			</wheel>
+		</wheels>
+		<powertrain>InternalCombustion</powertrain>
+	</vehicle>
+	<vehicle>
+		<id>vehicle106</id>
+		<frame>
+			<material>plastic</material>
+		</frame>
+		<wheels/>
+		<powertrain>
+			<Bernoulli />
+		</powertrain>
+	</vehicle>
+	<vehicle>
+		<id>vehicle107</id>
+		<frame>
+			<material>plastic</material>
+		</frame>
+		<wheels/>
+		<powertrain>
+			<Bernoulli />
+		</powertrain>
+	</vehicle>
+</vehicles>

@@ -1,0 +1,10 @@
+com\workscape\vehicleidentifier\jaxbutility\Wheels.class
+com\workscape\vehicleidentifier\constants\FrameType.class
+com\workscape\vehicleidentifier\jaxbutility\Wheel.class
+com\workscape\vehicleidentifier\service\VehicleIdentifierService.class
+com\workscape\vehicleidentifier\jaxbutility\Vehicles.class
+com\workscape\vehicleidentifier\constants\PowertrainType.class
+com\workscape\vehicleidentifier\sortby\SortByVehicleID.class
+com\workscape\vehicleidentifier\jaxbutility\Frame.class
+com\workscape\vehicleidentifier\constants\VehicleType.class
+com\workscape\vehicleidentifier\jaxbutility\Vehicle.class
