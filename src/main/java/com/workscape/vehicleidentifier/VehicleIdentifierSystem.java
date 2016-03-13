@@ -6,7 +6,7 @@ import com.workscape.vehicleidentifier.service.VehicleIdentifierService;
  * 
  * This class is entry point for Vehicle Identifier System
  * 
- * @author Vivek Singh
+ * @author Vivek Singh <vivekrajsurya@gmail.com>
  *
  */
 public class VehicleIdentifierSystem {
